@@ -20,12 +20,6 @@ Crie uma classe abstrata Questao que implementa Corrigivel e possui:
 
 - double peso
 
-Regras:
-
-- peso deve ser maior que 0
-
-- enunciado não pode ser vazio/nulo
-
 ### 3) Subclasses
 
 Implemente dois tipos de questão:
@@ -90,7 +84,7 @@ Crie a classe ProvasApp com o main e um menu:
 
 Regras:
 
-- A prova deve ser criada e preenchida automaticamente com pelo menos 3 questões ao iniciar o programa (misture tipos).
+- A prova deve ser criada e preenchida automaticamente com pelo menos 1 questão de múltipla escolha e 1 de verdadeiro/falso ao iniciar o programa.
 
 - Ao escolher “Responder e corrigir”, o programa deve pedir a resposta do aluno para cada questão e ao final exibir:
 
