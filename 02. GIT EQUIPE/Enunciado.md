@@ -6,7 +6,7 @@
 - **Entrega:** 📅 **29/03**, até 🕔 **23:59**  
 - **Como entregar no Ulife:** enviar o **link do repositório** + **nome e RA** dos integrantes  
   - Obs.: repositório **público** ou, se privado, adicionar **@rafapcmor**  
-  - Apenas **1 integrante** faz a postagem no Ulife
+  - Todos precisam fazer a postagem no Ulife
 
 ---
 
